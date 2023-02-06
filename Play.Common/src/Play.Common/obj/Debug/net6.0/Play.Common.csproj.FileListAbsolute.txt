@@ -1,0 +1,12 @@
+/media/iqdev/Local Disk/GIT/dotnet6-microservice/Play.Common/src/Play.Common/bin/Debug/net6.0/Play.Common.deps.json
+/media/iqdev/Local Disk/GIT/dotnet6-microservice/Play.Common/src/Play.Common/bin/Debug/net6.0/Play.Common.dll
+/media/iqdev/Local Disk/GIT/dotnet6-microservice/Play.Common/src/Play.Common/bin/Debug/net6.0/Play.Common.pdb
+/media/iqdev/Local Disk/GIT/dotnet6-microservice/Play.Common/src/Play.Common/obj/Debug/net6.0/Play.Common.csproj.AssemblyReference.cache
+/media/iqdev/Local Disk/GIT/dotnet6-microservice/Play.Common/src/Play.Common/obj/Debug/net6.0/Play.Common.GeneratedMSBuildEditorConfig.editorconfig
+/media/iqdev/Local Disk/GIT/dotnet6-microservice/Play.Common/src/Play.Common/obj/Debug/net6.0/Play.Common.AssemblyInfoInputs.cache
+/media/iqdev/Local Disk/GIT/dotnet6-microservice/Play.Common/src/Play.Common/obj/Debug/net6.0/Play.Common.AssemblyInfo.cs
+/media/iqdev/Local Disk/GIT/dotnet6-microservice/Play.Common/src/Play.Common/obj/Debug/net6.0/Play.Common.csproj.CoreCompileInputs.cache
+/media/iqdev/Local Disk/GIT/dotnet6-microservice/Play.Common/src/Play.Common/obj/Debug/net6.0/Play.Common.dll
+/media/iqdev/Local Disk/GIT/dotnet6-microservice/Play.Common/src/Play.Common/obj/Debug/net6.0/refint/Play.Common.dll
+/media/iqdev/Local Disk/GIT/dotnet6-microservice/Play.Common/src/Play.Common/obj/Debug/net6.0/Play.Common.pdb
+/media/iqdev/Local Disk/GIT/dotnet6-microservice/Play.Common/src/Play.Common/obj/Debug/net6.0/ref/Play.Common.dll
